@@ -15,15 +15,4 @@ Explicação:
 Ao calcular o tempo que ambos levam para se cruzar e considerando os efeitos dos pedágios, o caminhão percorre mais distância do que o carro. Por isso, no momento do cruzamento, o caminhão estará mais próximo de Ribeirão Preto.
 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O restante das respostas estão na pasta Lib
